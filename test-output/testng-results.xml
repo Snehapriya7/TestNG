@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-15T20:07:54 IST" name="Default suite" finished-at="2024-11-15T20:08:26 IST" duration-ms="31639">
+    <groups>
+    </groups>
+    <test started-at="2024-11-15T20:07:54 IST" name="Default test" finished-at="2024-11-15T20:08:26 IST" duration-ms="31639">
+      <class name="BreakOutAssignment.verifySignup">
+        <test-method is-config="true" signature="setup()[pri:0, instance:BreakOutAssignment.verifySignup@368247b9]" started-at="2024-11-15T20:07:55 IST" name="setup" finished-at="2024-11-15T20:08:06 IST" duration-ms="11430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Excelsignup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:BreakOutAssignment.verifySignup@368247b9]" started-at="2024-11-15T20:08:06 IST" name="Excelsignup" data-provider="signupdatafromExcel" finished-at="2024-11-15T20:08:09 IST" duration-ms="2770" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Franklin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Franklin@email11.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Cypress,java]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Kerala]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Playing,Swimming]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Excelsignup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:BreakOutAssignment.verifySignup@368247b9]" started-at="2024-11-15T20:08:09 IST" name="teardown" finished-at="2024-11-15T20:08:09 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:BreakOutAssignment.verifySignup@368247b9]" started-at="2024-11-15T20:08:09 IST" name="setup" finished-at="2024-11-15T20:08:15 IST" duration-ms="5753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Excelsignup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:BreakOutAssignment.verifySignup@368247b9]" started-at="2024-11-15T20:08:15 IST" name="Excelsignup" data-provider="signupdatafromExcel" finished-at="2024-11-15T20:08:17 IST" duration-ms="2519" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Marie]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Marie@email11.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[java]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Odisha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Reading]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Excelsignup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:BreakOutAssignment.verifySignup@368247b9]" started-at="2024-11-15T20:08:17 IST" name="teardown" finished-at="2024-11-15T20:08:18 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:BreakOutAssignment.verifySignup@368247b9]" started-at="2024-11-15T20:08:18 IST" name="setup" finished-at="2024-11-15T20:08:23 IST" duration-ms="5106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Excelsignup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:BreakOutAssignment.verifySignup@368247b9]" started-at="2024-11-15T20:08:23 IST" name="Excelsignup" data-provider="signupdatafromExcel" finished-at="2024-11-15T20:08:25 IST" duration-ms="2492" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cary]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Cary@email11.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Selenium,Playwright]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Bihar]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Dancing,Reading]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Excelsignup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:BreakOutAssignment.verifySignup@368247b9]" started-at="2024-11-15T20:08:25 IST" name="teardown" finished-at="2024-11-15T20:08:26 IST" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- BreakOutAssignment.verifySignup -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
